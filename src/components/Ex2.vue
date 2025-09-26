@@ -11,7 +11,6 @@
 </script>
 
 <template>
-
-    <!-- add code here -->
+    <img v-bind:src="myImg" v-bind:width="200" v-bind:height="200"></img>
    
 </template>
